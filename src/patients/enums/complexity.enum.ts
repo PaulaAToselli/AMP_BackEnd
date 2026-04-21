@@ -1,0 +1,6 @@
+export enum Complexity {
+  JUDICIAL = 'JUDICIAL',
+  VEINTICUATRO_HS = '24HS',
+  PALIATIVO = 'PALIATIVO',
+  ESTANDAR = 'ESTANDAR',
+}

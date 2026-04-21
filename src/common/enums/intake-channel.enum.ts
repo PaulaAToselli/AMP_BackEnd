@@ -1,0 +1,7 @@
+export enum IntakeChannel {
+  INTERSOFTIC = 'INTERSOFTIC',
+  SHAMA = 'SHAMA',
+  WHATSAPP = 'WHATSAPP',
+  SHEETS = 'SHEETS',
+  PORTAL_OS = 'PORTAL_OS',
+}

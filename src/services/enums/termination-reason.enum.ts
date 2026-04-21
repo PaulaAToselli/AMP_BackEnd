@@ -1,0 +1,8 @@
+export enum TerminationReason {
+  ALTA = 'ALTA',
+  CAMBIO_EMPRESA = 'CAMBIO_EMPRESA',
+  CAMBIO_MODULO = 'CAMBIO_MODULO',
+  FINALIZADO_OS = 'FINALIZADO_OS',
+  OBITO = 'OBITO',
+  OTROS = 'OTROS',
+}
